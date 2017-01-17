@@ -3,6 +3,8 @@ layout: post
 title: A Cisco Networking Academy e o Packet Tracer
 ---
 
+![packet-tracer](https://cloud.githubusercontent.com/assets/25178466/22028234/b8aa6d3e-dcbd-11e6-8788-f53d09562c7e.png)
+
 Esta publicação vai de encontro às pessoas que desejam iniciar os seus estudos formais em Redes de Computadores. A ideia aqui é oferecer a você um caminho extremamente prático, gratuito e engajador para conhecer um pouco mais sobre a Cisco, líder mundial no setor, e também praticar os conceitos aprendidos ao longo dos seus estudos utilizando o simulador Cisco Packet Tracer.
 
 ### O que é a Cisco?
