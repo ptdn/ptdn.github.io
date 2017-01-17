@@ -10,7 +10,7 @@ title:            PTDN
 tagline:          'Plain-Text Defined Networking'
 description:      'Redes definidas por texto e explicadas de um modo simples para você.'
 url:              https://ptdn.github.io/
-baseurl:          https://ptdn.github.io/
+baseurl:          /
 
 author:
   name:           'Fernando Gomes'
